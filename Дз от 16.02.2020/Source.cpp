@@ -20,6 +20,7 @@ public:
 
 int main()
 {
+	double Natalya;
 	int Kioshima;
 	int Jonh;
 	int Bob;
