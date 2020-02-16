@@ -20,6 +20,7 @@ public:
 
 int main()
 {
+	int Kioshima;
 	int Jonh;
 	int Bob;
 	test_status Student1(true, 3);
