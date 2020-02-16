@@ -20,7 +20,7 @@ public:
 
 int main()
 {
-	int y = 9;
+	int Jonh;
     float h = 6.87;
 	test_status Student1(true, 3);
 	int a = 5; 
