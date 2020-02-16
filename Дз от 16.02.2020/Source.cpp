@@ -21,7 +21,7 @@ public:
 int main()
 {
 	int Jonh;
-    float h = 6.87;
+	int Bob;
 	test_status Student1(true, 3);
 	int a = 5; 
 	int b = 6;
